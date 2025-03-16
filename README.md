@@ -14,3 +14,18 @@ Neuroflux is a multimodal Grad-CAM-enhanced U-Net-based deep learning model for 
 
 ### Contributions
 Feel free to fork the repository and submit a pull request with any improvements. If you have any questions or run into issues, create an issue in the GitHub repository, and we will be happy to assist you!
+
+
+### Performance
+Model evaluation on the test set:
+==================================
+Loss : 0.0358
+Accuracy : 0.9886
+MeanIOU : 0.5
+Dice coefficient : 0.4468
+Precision : 0.9906
+Sensitivity : 0.9867
+Specificity : 0.9968
+Dice coef Necrotic : 0.2627
+Dice coef Edema : 0.5072
+Dice coef Enhancing : 0.4482
